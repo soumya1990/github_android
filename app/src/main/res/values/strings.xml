@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyGitHubProjects</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_heading">Sample Heading To be filled</string>
+    <string name="project_description">This is sa sample project description to be filled dynamically</string>
+</resources>
